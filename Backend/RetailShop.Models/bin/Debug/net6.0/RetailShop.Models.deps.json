@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RetailShop.Models/1.0.0": {
+        "runtime": {
+          "RetailShop.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RetailShop.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

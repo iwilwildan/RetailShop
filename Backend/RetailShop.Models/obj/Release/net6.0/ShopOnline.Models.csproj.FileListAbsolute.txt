@@ -1,0 +1,12 @@
+C:\Users\wilda\Desktop\wildan\she sharp\ShopOnline\ShopOnline.Models\bin\Release\net6.0\ShopOnline.Models.deps.json
+C:\Users\wilda\Desktop\wildan\she sharp\ShopOnline\ShopOnline.Models\bin\Release\net6.0\ShopOnline.Models.dll
+C:\Users\wilda\Desktop\wildan\she sharp\ShopOnline\ShopOnline.Models\bin\Release\net6.0\ref\ShopOnline.Models.dll
+C:\Users\wilda\Desktop\wildan\she sharp\ShopOnline\ShopOnline.Models\bin\Release\net6.0\ShopOnline.Models.pdb
+C:\Users\wilda\Desktop\wildan\she sharp\ShopOnline\ShopOnline.Models\obj\Release\net6.0\ShopOnline.Models.csproj.AssemblyReference.cache
+C:\Users\wilda\Desktop\wildan\she sharp\ShopOnline\ShopOnline.Models\obj\Release\net6.0\ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilda\Desktop\wildan\she sharp\ShopOnline\ShopOnline.Models\obj\Release\net6.0\ShopOnline.Models.AssemblyInfoInputs.cache
+C:\Users\wilda\Desktop\wildan\she sharp\ShopOnline\ShopOnline.Models\obj\Release\net6.0\ShopOnline.Models.AssemblyInfo.cs
+C:\Users\wilda\Desktop\wildan\she sharp\ShopOnline\ShopOnline.Models\obj\Release\net6.0\ShopOnline.Models.csproj.CoreCompileInputs.cache
+C:\Users\wilda\Desktop\wildan\she sharp\ShopOnline\ShopOnline.Models\obj\Release\net6.0\ShopOnline.Models.dll
+C:\Users\wilda\Desktop\wildan\she sharp\ShopOnline\ShopOnline.Models\obj\Release\net6.0\ref\ShopOnline.Models.dll
+C:\Users\wilda\Desktop\wildan\she sharp\ShopOnline\ShopOnline.Models\obj\Release\net6.0\ShopOnline.Models.pdb
